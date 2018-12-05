@@ -1,0 +1,166 @@
+
+18:24:45	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+Open Adapter VMware Virtual Ethernet Adapter
+Begin to Sniffer...
+
+18:25:24	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+Open Adapter Microsoft
+Begin to Sniffer...
+
+18:26:01	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+Open Adapter VMware Virtual Ethernet Adapter
+Begin to Sniffer...
+
+18:26:31	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+
+18:26:33	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+
+18:26:38	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+Open Adapter VMware Virtual Ethernet Adapter
+Begin to Sniffer...
+
+18:26:49	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+Open Adapter Sangfor SSL VPN CS Support System VNIC
+Begin to Sniffer...
+
+18:28:09	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+Open Adapter Realtek PCIe GbE Family Controller
+Begin to Sniffer...
+18:28:14.478520 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 120.239.230.253 port: 24382
+18:28:16.347358 len:172  ip: 180. 97. 33. 12 port: 8829  -> ip: 172. 29.203. 25 port: 7273 
+18:28:16.348559 len:135  ip: 172. 29.203. 25 port: 7273  -> ip: 180. 97. 33. 12 port: 8829 
+18:28:16.349005 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:28:16.956633 len:174  ip: 180. 97. 33. 12 port: 8829  -> ip: 172. 29.203. 25 port: 7273 
+18:28:16.957029 len:136  ip: 172. 29.203. 25 port: 7273  -> ip: 180. 97. 33. 12 port: 8829 
+18:28:16.957205 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 120.210.176.209 port: 34552
+18:28:17.149462 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:28:17.757774 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 120.210.176.209 port: 34552
+18:28:17.950317 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:28:18.558667 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 120.210.176.209 port: 34552
+18:28:18.751254 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:28:19.359680 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 120.210.176.209 port: 34552
+18:28:19.552346 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:28:19.702404 len:140  ip: 171.117.226. 96 port: 7273  -> ip: 172. 29.203. 25 port: 7273 
+18:28:19.702568 len:74   ip: 172. 29.203. 25 port: 7273  -> ip: 171.117.226. 96 port: 7273 
+18:28:19.740398 len:74   ip: 171.117.226. 96 port: 7273  -> ip: 172. 29.203. 25 port: 7273 
+18:28:19.740664 len:140  ip: 172. 29.203. 25 port: 7273  -> ip: 171.117.226. 96 port: 7273 
+18:28:19.740760 len:74   ip: 172. 29.203. 25 port: 7273  -> ip: 171.117.226. 96 port: 7273 
+18:28:19.740837 len:74   ip: 172. 29.203. 25 port: 7273  -> ip: 171.117.226. 96 port: 7273 
+
+18:28:29	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+Open Adapter VMware Virtual Ethernet Adapter
+Begin to Sniffer...
+
+18:32:29	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+Open Adapter Realtek PCIe GbE Family Controller
+Begin to Sniffer...
+18:32:33.606750 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:32:34.072634 len:349  ip: 172. 29.203. 25 port: 7273  -> ip: 180. 97. 33. 12 port: 8829 
+18:32:34.115262 len:351  ip: 180. 97. 33. 12 port: 8829  -> ip: 172. 29.203. 25 port: 7273 
+18:32:34.407783 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:32:35.208457 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:32:36.009343 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:32:42.391469 len:174  ip: 180. 97. 33. 12 port: 8829  -> ip: 172. 29.203. 25 port: 7273 
+18:32:42.391829 len:136  ip: 172. 29.203. 25 port: 7273  -> ip: 180. 97. 33. 12 port: 8829 
+18:32:42.391941 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 120.239.230.253 port: 24382
+18:32:42.816761 len:172  ip: 180. 97. 33. 12 port: 8829  -> ip: 172. 29.203. 25 port: 7273 
+18:32:42.817035 len:135  ip: 172. 29.203. 25 port: 7273  -> ip: 180. 97. 33. 12 port: 8829 
+18:32:42.817146 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:32:42.827809 len:172  ip: 180. 97. 33. 12 port: 8829  -> ip: 172. 29.203. 25 port: 7273 
+18:32:42.828066 len:135  ip: 172. 29.203. 25 port: 7273  -> ip: 180. 97. 33. 12 port: 8829 
+18:32:43.192143 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 120.239.230.253 port: 24382
+18:32:43.618027 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:32:43.992986 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 120.239.230.253 port: 24382
+18:32:44.418881 len:106  ip: 172. 29.203. 25 port: 7273  -> ip: 113. 57.176.186 port: 10237
+18:32:44.533580 len:173  ip: 180. 97. 33. 12 port: 8829  -> ip: 172. 29.203. 25 port: 7273 
+18:32:44.536025 len:136  ip: 172. 29.203. 25 port: 7273  -> ip: 180. 97. 33. 12 port: 8829 
+
+18:54:01	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle

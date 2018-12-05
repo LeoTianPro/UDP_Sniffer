@@ -1,0 +1,52 @@
+
+09:45:31	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+
+13:05:33	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+
+13:05:55	System begin to run;
+Network card get succeed;
+\Device\NPF_{05B95CA9-1189-4515-904C-68D549138FBF}VMware Virtual Ethernet Adapter
+\Device\NPF_{B9A9AA19-7D98-4814-941D-6079CA99A9A6}Sangfor SSL VPN CS Support System VNIC
+\Device\NPF_{31A00AE5-D17C-489E-BAEA-46B8A2103F16}Microsoft
+\Device\NPF_{D923F10A-7C1F-4480-A5C5-CC65DC8F9C44}VMware Virtual Ethernet Adapter
+\Device\NPF_{1439EC1E-A9CD-4F98-AB4B-90EBDEB37288}Realtek PCIe GbE Family Controller
+\Device\NPF_{F2100DC7-07CA-4B83-8D19-F3DCB02981DE}Microsoft
+\Device\NPF_{E5791E47-016B-4789-A2C7-4B3A4D4F06B2}Oracle
+Open Adapter Realtek PCIe GbE Family Controller
+Begin to Sniffer...
+13:06:43.100483 len:77   ip: 172. 29.203. 25 port: 57096 -> ip: 202.118. 88. 19 port: 53   
+13:06:43.100484 len:77   ip: 172. 29.203. 25 port: 61186 -> ip: 202.118. 88. 19 port: 53   
+13:06:43.102044 len:212  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 61186
+13:06:43.102044 len:188  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 57096
+13:06:45.544938 len:77   ip: 172. 29.203. 25 port: 65303 -> ip: 202.118. 88. 19 port: 53   
+13:06:45.986611 len:413  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 65303
+13:06:46.985212 len:81   ip: 172. 29.203. 25 port: 64703 -> ip: 202.118. 88. 19 port: 53   
+13:06:47.178119 len:382  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 64703
+13:07:19.524168 len:84   ip: 172. 29.203. 25 port: 51527 -> ip: 202.118. 88. 19 port: 53   
+13:07:19.524168 len:84   ip: 172. 29.203. 25 port: 52247 -> ip: 202.118. 88. 19 port: 53   
+13:07:19.957845 len:432  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 51527
+13:07:19.983518 len:248  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 52247
+13:07:20.016016 len:84   ip: 172. 29.203. 25 port: 53043 -> ip: 202.118. 88. 19 port: 53   
+13:07:20.112643 len:248  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 53043
+13:07:20.146652 len:88   ip: 172. 29.203. 25 port: 55781 -> ip: 202.118. 88. 19 port: 53   
+13:07:20.147343 len:169  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 55781
+13:07:20.307253 len:89   ip: 172. 29.203. 25 port: 59665 -> ip: 202.118. 88. 19 port: 53   
+13:07:20.309074 len:89   ip: 172. 29.203. 25 port: 53367 -> ip: 202.118. 88. 19 port: 53   
+13:07:20.532700 len:238  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 53367
+13:07:20.686090 len:409  ip: 202.118. 88. 19 port: 53    -> ip: 172. 29.203. 25 port: 59665
